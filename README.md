@@ -3,5 +3,5 @@
 aqui haciendo la misma prueba pero al contrario
 ajjajajaja
 
-
-debe funcionar
+aqui probando dos           
+debe funcionar, que pasa?
